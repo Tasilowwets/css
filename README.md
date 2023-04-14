@@ -1,3 +1,5 @@
 # css
 
-<hr color=red>
+<hr>
+
+https://tasilowwets.github.io/css/

@@ -1,3 +1,3 @@
 # css
 
-<hr>
+<hr color=red>
